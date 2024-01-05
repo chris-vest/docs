@@ -8,7 +8,7 @@ description: NGINX default tempalte
 
 It is recommended to run a web proxy behind the frontend and backend for optimized installation.
 
-These endpoints should be routed to `frontend`:
+These endpoints should be routed to frontend:
 
 ```
 = /
@@ -42,7 +42,6 @@ These endpoints should be routed to `frontend`:
 /tx
 /txs
 /verified-contracts
-/visualize
 /withdrawals
 ```
 
